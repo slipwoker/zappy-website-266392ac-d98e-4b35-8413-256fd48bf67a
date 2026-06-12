@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://primeglobalfx-266392ac.zappy5.app
+https://example.com
 Unleash your trading potential on the award-winning MT4 forex trading platform. Join PrimeGlobalFX for tight spreads, VIP perks, and instant market access. Start your success story today.
 
 ### Accounts
-https://primeglobalfx-266392ac.zappy5.app/accounts
+https://example.com/accounts
 Compare tiered trading accounts built for winners. From Silver to Platinum VIP, each tier escalates your benefits, leverage, and profit potential. Find your perfect match now.
 
 ### Markets & Platform
-https://primeglobalfx-266392ac.zappy5.app/markets-platform
+https://example.com/markets-platform
 Access forex, indices, and commodities with live kitco gold and silver prices on the powerful MT4 forex trading platform. Execute trades with lightning speed and precision.
 
 ### Education & Support
-https://primeglobalfx-266392ac.zappy5.app/education-support
+https://example.com/education-support
 Turn knowledge into profit with expert-led webinars, tutorials, and 24/5 support. PrimeGlobalFX equips you with the tools to trade confidently and win consistently.
 
 ### Contact
-https://primeglobalfx-266392ac.zappy5.app/contact
+https://example.com/contact
 Ready to trade like a pro? Contact PrimeGlobalFX for priority onboarding, dedicated account support, and exclusive market insights. Your breakthrough starts with one click.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://primeglobalfx-266392ac.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://primeglobalfx-266392ac.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://primeglobalfx-266392ac.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://primeglobalfx-266392ac.zappy5.app/contact
-- Endpoint: https://primeglobalfx-266392ac.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Financial Services / Forex Brokerage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://primeglobalfx-266392ac.zappy5.app/sitemap.xml
-- Robots: https://primeglobalfx-266392ac.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://primeglobalfx-266392ac.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
