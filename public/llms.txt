@@ -1,0 +1,83 @@
+# PrimeGlobalFX — Generative Engine Optimization Map
+
+> AlphaMexxTrade is a professional forex and multi-asset online trading broker designed to attract and convert global retail traders, with particular appeal to African markets. The brand projects authority, trust, and financial success through a sleek dark-themed aesthetic with blue and green accents, trust badges, awards walls, and aspirational imagery of charts and successful traders. The site is built around urgency-driven, high-pressure marketing with aggressive CTAs, tiered account structures offering escalating VIP benefits, and an interactive onboarding quiz that funnels users toward a recommended account. The overall vibe is bold, credible, and conversion-obsessed — evoking the feel of a globally recognized, regulated broker.
+
+---
+
+## Pages
+
+### Home
+https://primeglobalfx-266392ac.zappy5.app
+Unleash your trading potential on the award-winning MT4 forex trading platform. Join PrimeGlobalFX for tight spreads, VIP perks, and instant market access. Start your success story today.
+
+### Accounts
+https://primeglobalfx-266392ac.zappy5.app/accounts
+Compare tiered trading accounts built for winners. From Silver to Platinum VIP, each tier escalates your benefits, leverage, and profit potential. Find your perfect match now.
+
+### Markets & Platform
+https://primeglobalfx-266392ac.zappy5.app/markets-platform
+Access forex, indices, and commodities with live kitco gold and silver prices on the powerful MT4 forex trading platform. Execute trades with lightning speed and precision.
+
+### Education & Support
+https://primeglobalfx-266392ac.zappy5.app/education-support
+Turn knowledge into profit with expert-led webinars, tutorials, and 24/5 support. PrimeGlobalFX equips you with the tools to trade confidently and win consistently.
+
+### Contact
+https://primeglobalfx-266392ac.zappy5.app/contact
+Ready to trade like a pro? Contact PrimeGlobalFX for priority onboarding, dedicated account support, and exclusive market insights. Your breakthrough starts with one click.
+
+## Legal & Policy
+
+### Privacy Policy
+https://primeglobalfx-266392ac.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://primeglobalfx-266392ac.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://primeglobalfx-266392ac.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://primeglobalfx-266392ac.zappy5.app/contact
+- Endpoint: https://primeglobalfx-266392ac.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About PrimeGlobalFX
+AlphaMexxTrade is a professional forex and multi-asset online trading broker designed to attract and convert global retail traders, with particular appeal to African markets. The brand projects authority, trust, and financial success through a sleek dark-themed aesthetic with blue and green accents, trust badges, awards walls, and aspirational imagery of charts and successful traders. The site is built around urgency-driven, high-pressure marketing with aggressive CTAs, tiered account structures offering escalating VIP benefits, and an interactive onboarding quiz that funnels users toward a recommended account. The overall vibe is bold, credible, and conversion-obsessed — evoking the feel of a globally recognized, regulated broker.
+
+## Target Audience
+- Young Aspiring Traders
+- Part-time Forex Enthusiasts
+- Digital Nomad Traders
+- Experienced Forex Investors
+
+## Industry
+Financial Services / Forex Brokerage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://primeglobalfx-266392ac.zappy5.app/sitemap.xml
+- Robots: https://primeglobalfx-266392ac.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://primeglobalfx-266392ac.zappy5.app/llms-full.txt
